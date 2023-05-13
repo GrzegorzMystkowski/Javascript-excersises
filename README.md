@@ -1,1 +1,1 @@
-# Javascript-excersises
+JavaScript simple tasks using else if, switch, and variables
